@@ -43,5 +43,5 @@ The key value store is designed to be thread-safe. The `Store` struct is wrapped
 
 ## License
 
-*License?* Valiant is like a rebellious teenager, it refuses to be bound by rules and regulations. However, we understand that the real world requires some sort of legal framework. So, here's the deal: you can use Valiant for whatever purposes you want, but don't come crying to me if something goes wrong. In other words, use it at your own risk. And hey, if you make millions using Valiant, just remember to send me a postcard from your private island. Deal? Deal.
+*License?* Valiant is like a rebellious teenager, it refuses to be bound by rules and regulations. However, we understand that the real world requires some sort of legal framework. So, here's the deal: you can use Valiant for whatever purposes you want, but don't come crying to me if something goes wrong. In other words, use it at your own risk.
 
