@@ -1,0 +1,11 @@
+hidden = ["target"]
+
+entrypoint = "src/main.rs"
+
+modules = ["rust"]
+
+[nix]
+channel = "stable-22_11"
+
+[gitHubImport]
+requiredFiles = [".replit"]

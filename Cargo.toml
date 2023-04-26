@@ -1,0 +1,12 @@
+[package]
+name = "my-project"
+version = "0.1.0"
+authors = ["runner"]
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+anyhow = "1.0.70"
+bytes = "1.4.0"
+tokio = {version = "1.27.0", features = ["full"]}
